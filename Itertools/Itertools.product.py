@@ -8,4 +8,4 @@ arr2 = list(map(int, arr2))
 result = list(product(arr1,arr2))
 for i in result:
     print(i, end = " ");
-# END
+# EN
